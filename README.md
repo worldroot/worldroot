@@ -4,9 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Crypto%20Fanatic;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">my description here.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=worldroot&label=Profile%20views&color=0e75b6&style=plastic" alt="worldroot" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=worldroot&theme=algolia" alt="worldroot"  /></p>
